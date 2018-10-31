@@ -1,0 +1,23 @@
+.count {
+  font-size: 24px;
+  background-color:black;
+  color: white;
+  margin: 9px;
+}
+
+.counter-container {
+  margin: 20px;
+  background-color:azure;
+  width: 250px;
+  margin:auto;
+  border-radius: 15px;
+  margin-top: 15px;
+}
+
+.buttons {
+  margin: 10px;
+}
+
+.title {
+  margin-left: 25px;
+}

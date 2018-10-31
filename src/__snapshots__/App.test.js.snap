@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="app-container"
+>
+  <header
+    className="App-header"
+  >
+    <h1>
+      React Counter App
+    </h1>
+  </header>
+  <div
+    className="counter-container"
+  >
+    <span
+      className="badge badge-success count"
+    >
+      0
+    </span>
+    <button
+      className="btn btn-primary buttons"
+      onClick={[Function]}
+    >
+       +
+    </button>
+    <button
+      className="btn btn-danger buttons"
+      onClick={[Function]}
+    >
+       -
+    </button>
+    <button
+      className="btn btn-warning buttons"
+      onClick={[Function]}
+    >
+      Reset
+    </button>
+  </div>
+</div>
+`;
